@@ -1,4 +1,4 @@
-genki-wave==0.4.0
+genki-wave==0.4.1
 matplotlib
 scipy
 more-itertools
