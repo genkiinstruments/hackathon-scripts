@@ -27,3 +27,15 @@ python basic_wave_queue.py abcd-1234
 ```
 python basic_wave_csv.py abcd-1234 output_file.csv
 ```
+
+## Visualization
+This requires some more dependencies, but is relatively straight forward as well. Just install the requirements for the visualization
+```
+pip install -r requirements-visualization.txt
+```
+
+and run
+
+```
+python visualize_data_basic.py abcd-1234
+```
